@@ -1,1 +1,1 @@
-newHello is an additional detail
+Hello
