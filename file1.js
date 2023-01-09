@@ -1,1 +1,5 @@
-hello again
+<<<<<<< HEAD
+Hello
+=======
+Added Hello
+>>>>>>> newHello
